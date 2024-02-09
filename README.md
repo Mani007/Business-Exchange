@@ -1,7 +1,7 @@
 # What is a business exchange group.
 
 ### First lets know, what is is not
--  It's not a startup group, although we support all types of startups, but still this group is for established businesses. That simply means it's preferred to do real business than working on ideas. For such startup ideas you will have different groups in lisbon. So whatever you do here will generate some sort of revenue for you. So no fundraising, because the best money you can earn is the money from your satisfied customers. 
+-  It's not a startup group, although we support all types of startups, but still this group is for established businesses. That simply means it's preferred to do real business than working on ideas. For such startup ideas you will have different groups. So whatever you do here will generate some sort of revenue for you. So no fundraising, because the best money you can earn is the money from your satisfied customers. 
 - It's not a group for non business discussion. So please share only the business opportunities here.
 - It's not a group with any commercial intent. It's a completely voluntary group. Hence it's never gonna be like groups such as BNI, toastmasters etc.. And we do not have any commercial plans. So its always free.  
    
