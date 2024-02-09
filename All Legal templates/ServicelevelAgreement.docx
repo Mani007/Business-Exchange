@@ -1,0 +1,70 @@
+Service Level Agreement (SLA) for [Service Provider]
+
+1. Introduction
+This Service Level Agreement ("SLA") is entered into between [Client] ("Client") and [Service Provider] ("Provider") on [Effective Date], for the provision of [Service]. This SLA outlines the agreed-upon levels of service, support, and performance metrics to be provided by the Provider.
+
+2. Service Description
+The Provider agrees to deliver the following services:
+
+Description of services offered
+Scope of services
+Service hours/days
+3. Service Level Objectives
+The Provider commits to achieving the following service level objectives:
+
+Response time for support requests
+Uptime/downtime percentage
+Resolution time for incidents
+4. Responsibilities
+4.1 Provider Responsibilities:
+
+Maintain infrastructure and resources necessary to deliver services.
+Provide necessary support and maintenance as outlined in this SLA.
+Notify the Client of any planned maintenance or potential service disruptions in advance.
+4.2 Client Responsibilities:
+
+Provide necessary cooperation and access to enable the Provider to deliver services.
+Promptly report any issues or service interruptions to the Provider.
+Comply with payment terms as outlined in the agreement.
+5. Service Level Metrics
+
+Availability/Uptime: The Provider guarantees a minimum uptime of [X]% during agreed service hours, excluding scheduled maintenance.
+Response Time: The Provider will respond to support requests within [X] hours/days of receipt during business hours [define business hours].
+Resolution Time: The Provider will strive to resolve service interruptions or incidents within [X] hours/days of being reported.
+6. Support
+
+Support will be available [define hours] via [channels of communication].
+
+Support requests will be prioritized based on severity levels as defined below:
+
+Critical: Service is completely unavailable or significantly impaired. Response and resolution times will be [X].
+High: Service is severely impacted, but not completely unavailable. Response and resolution times will be [X].
+Medium: Service is impaired but functional. Response and resolution times will be [X].
+Low: General inquiries, feature requests, or non-urgent issues. Response and resolution times will be [X].
+7. Escalation Procedure
+In the event of any dispute or failure to meet service level objectives, the following escalation procedure will be followed:
+
+Level 1: Initial contact with assigned support representative.
+Level 2: Escalation to [supervisor/manager].
+Level 3: Escalation to senior management.
+8. Reporting
+The Provider will provide regular reports to the Client detailing service performance against agreed-upon metrics. Reports will be provided [define frequency] and will include:
+
+Uptime/downtime statistics.
+Response and resolution times.
+Any planned maintenance or service disruptions.
+9. Amendments and Reviews
+This SLA may be amended or updated by mutual agreement between the Client and Provider. Reviews of service performance and SLA effectiveness will be conducted [define frequency].
+
+10. Termination
+Either party reserves the right to terminate this agreement in accordance with the termination clause outlined in the master service agreement or upon mutual agreement.
+
+This Service Level Agreement is effective as of the date first written above.
+
+[Client Name]
+
+Signature: ___________________________
+
+[Service Provider Name]
+
+Signature: ___________________________
